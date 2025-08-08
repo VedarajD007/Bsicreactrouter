@@ -6,6 +6,7 @@ import Navbar from './components/Navbar.jsx'
 import About from './components/About.jsx'
 import Details from './components/Details.jsx'
 import Contact from './components/Contact.jsx'
+import './App.css'
 
 const router = createBrowserRouter([
   {
